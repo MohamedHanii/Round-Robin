@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1521460906 source:c:\users\moham\desktop\new folder\processing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1521924065 source:e:\old\back up\new folder\desktop\clean\new folder\processing\main.c
+	<stdio.h>
+	<stdlib.h>
+
